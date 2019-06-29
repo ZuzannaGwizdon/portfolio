@@ -162,3 +162,10 @@ a.tilelinkhtml5 {
   text-decoration: none;
   float: left;
 }
+
+a.sociallink {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  width: 105px;
+  height: 142px;
